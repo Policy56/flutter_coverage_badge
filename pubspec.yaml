@@ -18,8 +18,6 @@ dependencies:
   glob: ^2.0.1
   args: ^2.1.0
   lcov:
-    git:
-      url: git@github.com:amondnet/lcov.dart.git
 
 
 dev_dependencies:
